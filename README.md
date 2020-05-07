@@ -2,6 +2,7 @@
 
 Start up sample cluster:
 ```bash
+docker-compose build
 docker-compose up
 ```
 
